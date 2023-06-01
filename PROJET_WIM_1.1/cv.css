@@ -1,0 +1,85 @@
+
+.A2{
+	height:10%;
+	position: absolute;
+	width:100%;
+	top:260%;
+	text-align: center;
+	background-color: #C5C5C5;
+	z-index:1;
+}
+.carre1{
+	width: 80%;
+	height:65%;
+	position:absolute;
+	z-index:1;
+	top:15%;
+	left:13%;
+	background:#C5CAE9;
+	opacity:0.81;
+}	
+
+.rectangle1{
+	width:76%;
+	height:9%;
+	position:absolute;
+	z-index:3;
+	top:19%;
+	left:15%;
+	background:#E8EAF6;
+	opacity:0.79;
+}
+.carre2{
+	width: 80%;
+	height:65%;
+	position:absolute;
+	z-index:1;
+	top:88%;
+	left:13%;
+	background:#9FA8DA;
+	opacity:0.79;
+}	
+
+
+.rectangle2{
+	width:76%;
+	height:9%;
+	position:absolute;
+	z-index:3;
+	top:92%;
+	left:15%;
+	background:#E8EAF6;
+	opacity:0.79;
+}
+.carre3{
+	width: 80%;
+	height:65%;
+	position:absolute;
+	z-index:1;
+	top:165%;
+	left:13%;
+	background:#7986CB;
+	opacity:0.79;
+}	
+
+
+.rectangle3{
+	width:76%;
+	height:9%;
+	position:absolute;
+	z-index:3;
+	top:170%;
+	left:15%;
+	background:#E8EAF6;
+	opacity:0.79;
+}
+.rectangle4{
+	width:85%;
+	height:12%;
+	position:absolute;
+	z-index:3;
+	top:240%;
+	left:10%;
+	background:#D7BDE2  ;
+	opacity:0.79;
+}

@@ -1,0 +1,83 @@
+/*structure générale onglet à propos*/
+	
+.rectangle{
+	width: 50%;
+	height:65%;
+	position:absolute;
+	z-index:1;
+	top:30%;
+	left:3%;
+	background:#C6DEED;
+	opacity:0.79;
+}	
+
+.projet{
+	position:absolute;
+	top:27%;  
+	left:67%;
+	text-align:left;
+	width:25%;
+	color:black;
+	font-size:100%;
+	z-index:6;				
+}
+.code{
+	position:absolute;
+	top:14%;  
+	left:43%;
+	text-align:left;
+	width:25%;
+	color:black;
+	font-size:108%;
+	z-index:6;				
+}
+.container {
+	width: 100%;
+	max-width: 800px;
+	position:absolute;
+	z-index:1;
+	margin: 0 auto;
+	top:25%;
+	left:20%;
+	font-size: 15px;
+	color: #ccc;
+  }
+  
+  table {
+	width: 100%;
+	border-collapse: collapse;
+  }
+  
+  table th,
+  table td {
+	padding: 10px;
+	border: 1px solid #ccc;
+
+  }
+  
+  table th {
+	background-color: #aacba6;
+	font-size:15px;
+	color:black;
+  }
+  
+  .rectangle2{
+	width: 88%;
+	height:8%;
+	position:absolute;
+	z-index:1;
+	top:14%;
+	left:3%;
+	background:#ddf8bb;
+	opacity:0.79;
+}
+.titre {
+    position: absolute;
+    top: 13%;
+    left: 43%;
+    text-align: left;
+    width: 25%;
+    color: black;
+    font-size: 108%;
+    z-index: 6;
+}

@@ -1,0 +1,38 @@
+/*structure onglet accueil*/
+
+.center{
+	position:absolute;
+	top:20%;  
+	left:-2%;
+	text-align:center;
+	text-decoration: none;
+	padding: 20%;
+	color:black;
+	font-size:200%;
+	z-index:6;
+}
+.rectangle{
+	width: 90%;
+	height:90%;
+	position:absolute;
+	z-index:1;
+	top:20%;
+	left:5%;
+	background:#B0CC94;
+	opacity:0.79;
+}	
+.logo {
+	overflow:hidden;
+   
+    width:14%;
+    height:22%;
+    position:absolute;
+    top:30%;
+    left:44%;
+	z-index:2;
+}
+
+	
+	
+	
+		
